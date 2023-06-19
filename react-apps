@@ -1,0 +1,4 @@
+- primeiro instala o node, instalar o yarn também para gerenciamento de pacotes.
+- depois instla o redux, ele vem com muitas ferramentas para organizar e performar a produção do app.
+- instalando a nossa biblioteca de componentes que é a MUI yarn add @mui/material @emotion/react @emotion/styled
+
